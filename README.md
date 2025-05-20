@@ -1,4 +1,4 @@
-# Rental Prima Super Admin Dashboard
+# Rental Prima
 
 A full-stack admin dashboard for the Rental Prima platform with modern UI and comprehensive management features.
 
